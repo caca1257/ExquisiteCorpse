@@ -100,7 +100,15 @@ body{
 }
 
 h1{
+    padding-left: 50px;
     font-family:'Yatra One', cursive;
+    font-size: 4em;
+}
+figcaption{
+    font-size:.6em; 
+    font-style: bold;
+    font-style: italic;
+
 }
 
 
