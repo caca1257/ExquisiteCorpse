@@ -120,12 +120,17 @@ figcaption{
     font-size: 3em;
 }
 #first{
-    text-align: center;
+    padding-left: 90px;
 
 }
 .story{
-    padding: 10px 100px 3px 100px;
+    padding: 10px 500px 3px 100px;
 }
+.quotes{
+    position: relative;
+    right:10px;
+    bottom: 0px;
+    padding: 300px;
 }
 
 
