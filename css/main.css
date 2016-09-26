@@ -103,12 +103,28 @@ h1{
     padding-left: 50px;
     font-family:'Yatra One', cursive;
     font-size: 4em;
+    text-align: center;
+}
+figure{
+    position: relative;
+    padding-left: 500px;
 }
 figcaption{
     font-size:.6em; 
     font-style: bold;
     font-style: italic;
 
+}
+#start{
+    text-align: center;
+    font-size: 3em;
+}
+#first{
+    text-align: center;
+
+}
+.part1{
+    padding: 10px 100px 3px 100px;
 }
 
 
