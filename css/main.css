@@ -97,7 +97,7 @@ textarea {
 
 body{
     background-color: #7DF0FF;
-    position:relative;
+    position:absolute;
 }
 
 h1{
@@ -117,7 +117,7 @@ figcaption{
 
 }
 #theStory{
-     background-color: rgba(51, 51, 51, 0.2);
+     background-color: rgba(51, 51, 51, 0.19);
      padding: 100px;
 }
 #start{
