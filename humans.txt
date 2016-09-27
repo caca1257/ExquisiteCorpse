@@ -4,6 +4,27 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Developer: Carolyn Castanon
+    Twitter: @querowline
+    Website: carolyncastanon.com	
+    Location: Boulder, CO
+
+    Developer: Chandler Zastrow
+    Twitter: @CZSwerv
+    Website: chandlerzastrow.com	
+    Location: Boulder, CO
+
+    Developer: Brady Noble
+    Twitter: @chellgibson420
+    Website: creative.colorado.edu/~brno3767/fwd/index.html	
+    Location: Boulder, CO
+
+    Developer: Brandon Miller
+    Twitter: @brandonwho00
+    Website: www.brandonmillerportfolio.com (in progress)rer	
+    Location: Boulder, CO
+
+
 
 # THANKS
 
