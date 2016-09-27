@@ -103,12 +103,39 @@ h1{
     padding-left: 50px;
     font-family:'Yatra One', cursive;
     font-size: 4em;
+    text-align: center;
+}
+figure{
+    position: relative;
+    padding-left: 500px;
 }
 figcaption{
     font-size:.6em; 
     font-style: bold;
     font-style: italic;
 
+}
+#start{
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Righteous', cursive;
+}
+.title{
+    padding-left: 90px;
+    font-family: 'Play', sans-serif;
+
+}
+.story{
+    padding: 10px 500px 3px 100px;
+}
+.quotes{
+    position: relative;
+    right:10px;
+    bottom: 0px;
+    padding: 300px;
+}
+.facts{
+    padding: 10px 300px 5px 100px;
 }
 
 
