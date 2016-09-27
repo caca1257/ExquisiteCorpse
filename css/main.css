@@ -138,6 +138,13 @@ figcaption{
 #facts{
     padding: 10px 300px 5px 100px;
 }
+<<<<<<< HEAD
+
+
+
+
+=======
+>>>>>>> d81f8669795ac9adb398398d471435b609b7da8b
 
 ul {
     list-style-type: none;
@@ -342,3 +349,8 @@ li a:hover{
         page-break-after: avoid;
     }
 }
+
+    footer {
+        text-align: center;
+        padding-bottom: 30px;
+    }
