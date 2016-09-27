@@ -133,7 +133,7 @@ figcaption{
     position: relative;
     right:10px;
     bottom: 0px;
-    padding: 300px;
+    padding: 10px 300px 10px 300px;
 }
 #facts{
     padding: 10px 300px 5px 100px;
