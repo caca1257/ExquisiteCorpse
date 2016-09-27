@@ -116,6 +116,10 @@ figcaption{
     font-style: italic;
 
 }
+#theStory{
+     background-color: rgba(51, 51, 51, 0.3);
+     padding: 100px;
+}
 #start{
     text-align: center;
     font-size: 3em;
@@ -126,17 +130,23 @@ figcaption{
     font-family: 'Play', sans-serif;
 
 }
+h2{
+    padding-top: 5px;
+}
 .story{
-    padding: 10px 500px 3px 100px;
+    padding: 20px 500px 10px 100px;
+
 }
 #quotes{
     position: relative;
     right:10px;
     bottom: 0px;
-    padding: 10px 300px 10px 300px;
+    padding:5px 300px 10px 300px;
+    background-color: rgba(51, 51, 51, 0.2);
 }
 #facts{
     padding: 10px 300px 5px 100px;
+    background-color: rgba(51, 51, 51, 0.1);
 }
 
 ul {
