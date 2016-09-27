@@ -97,6 +97,7 @@ textarea {
 
 body{
     background-color: #7DF0FF;
+    position:relative;
 }
 
 h1{
@@ -128,17 +129,39 @@ figcaption{
 .story{
     padding: 10px 500px 3px 100px;
 }
-.quotes{
+#quotes{
     position: relative;
     right:10px;
     bottom: 0px;
     padding: 300px;
 }
-.facts{
+#facts{
     padding: 10px 300px 5px 100px;
 }
 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    float: left;
 
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #111;
+}
 
 
 
